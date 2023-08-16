@@ -1,0 +1,33 @@
+.contact {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  font-size: 1.1em;
+  line-height: 1.5em;
+}
+
+.name {
+  padding-top: 100px;
+  text-align: center;
+}
+
+.body2 {
+  margin-left: 70px;
+  margin-right: 70px;
+}
+
+.summary {
+  line-height: 1.5em;
+  font-size: 1.1em;
+}
+
+li,
+p,
+strong {
+  font-size: 1.1em;
+  line-height: 1.5em;
+}
+
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
